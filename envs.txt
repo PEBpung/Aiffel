@@ -1,0 +1,37 @@
+tensorflow == 2.2.0
+jupyter-console==6.1.0
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-core==4.6.3
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyterlab==2.1.5
+jupyterthemes==0.20.0
+konlpy==0.5.2
+mccabe==0.6.1
+numpy==1.18.5
+tensorflow==2.2.0
+tensorflow-datasets==3.2.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1593390011681/workc
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1588470653596/work
+tensorflow-metadata==0.22.2
+termcolor==1.1.0
+terminado==0.8.3
+testpath==0.4.4
+tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1592820219624/work/tensorboard-2.2.2-py3-none-any.whl
+tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1592816951245/work/tensorboard_plugin_wit-1.6.0.post3-py3-none-any.whl
+scikit-image==0.17.2
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1592502882224/work
+scipy @ file:///tmp/build/80754af9/scipy_1592930510235/work
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-base_1591878760859/work
+python-language-server==0.31.10
+pytz==2020.1
+pyudev==0.22.0
+PyWavelets==1.1.1
+pyxdg==0.26
+PyYAML==5.3.1
+pyzmq==19.0.1
+QDarkStyle==2.8.1
+newspaper3k==0.2.8
+mecab-python @ file:///tmp/mecab-python-0.996
+cd 
