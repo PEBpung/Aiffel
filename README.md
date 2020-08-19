@@ -3,7 +3,7 @@
 2020 AIFFEL Project   
 <br>
 <br>
-### Contents
+### Exploration
 ---
 - [E1 인공지능과 가위바위보 하기](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/Project_E%201-1.%20rock_scissor_paper.ipynb)
 - [E2 Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/Project_E%202-3.%20load_breast_cancer%20%EC%9C%A0%EB%B0%A9%EC%95%94%20%EC%97%AC%EB%B6%80%20%EC%A7%84%EB%8B%A8.ipynb)
@@ -12,3 +12,10 @@
 - [E5 날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/Project%205.%20%EC%98%A4%ED%9B%84%20%EC%84%B8%20%EC%8B%9C%2C%20%EC%9E%90%EC%A0%84%EA%B1%B0%20%ED%83%80%EB%8A%94%20%EC%82%AC%EB%9E%8C%EC%9D%80%20%EB%AA%87%20%EB%AA%85%3F.ipynb)
 - [E6. 어제 오른 내 주식, 과연 내일은?](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/Project%206.%20%EC%A3%BC%EC%8B%9D%20%EC%98%88%EC%B8%A1.ipynb)
 - [E7. 영화 추천 시스템 만들기](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/Exploration7.%20Movielens%20recommendate.ipynb)
+
+### Fundamental
+---
+- [F14 Tkinter로 구글 번역기 만들기](https://github.com/PEBpung/Aiffel/blob/master/Project/Fundamental/F14.Tkinter%20project.ipynb)
+- [F16 다양한 전처리 기법](https://github.com/PEBpung/Aiffel/blob/master/Project/Fundamental/F16.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B8%B0%EB%B2%95.ipynb)
+- [F17 크롤링을 이용해서 환율정보 가져오기](https://github.com/PEBpung/Aiffel/blob/master/Project/Fundamental/F17.%20%ED%81%AC%EB%A1%A4%EB%A7%81%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb)
+- [F17 셀리니움 이용해서 웹 크롤링하기](https://github.com/PEBpung/Aiffel/blob/master/Project/Fundamental/F17.%20%EC%85%80%EB%A0%88%EB%8B%88%EC%9B%80%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb)
