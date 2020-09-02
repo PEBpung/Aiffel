@@ -1,0 +1,65 @@
+<html>
+
+<head>
+    <title>이미지 전처리 페이지</title>
+</head>
+
+    <body>
+
+        <form action="/image_preprocess" method="POST" enctype="multipart/form-data">
+            <h1>이미지 업로드 하기</h1>
+            <input type="file" name="uploaded_image">
+
+            <h1>이미지 전처리 종류 선택</h1>
+            <input type="checkbox" name="pre_toggle_0">
+            <span>180도 회전 </span>
+
+            <input type="checkbox" name="pre_toggle_1">
+            <span>흑백 변경 </span>
+
+            <input type="checkbox" name="pre_toggle_2" id="change_image_size_cb" onclick="setTextBoxShow()">
+            <span>이미지 사이즈 변경 </span>
+
+            <h1 id="size_header"style="display:none">이미지 사이즈 지정</h1>
+                <input type="text" id="width_size" name="changed_width" placeholder="넓이(width)를 입력해주세요" onkeypress="onlyNumber()" style="display:none"/>
+                <input type="text" id="height_size" name="changed_height" placeholder="높이(height)를 입력해주세요" onkeypress="onlyNumber()" style="display:none"/>
+            <br>
+
+            <script>
+            function onlyNumber(){
+
+                    if((event.keyCode<48)||(event.keyCode>57))
+
+                       event.returnValue=false;
+
+            }
+            function setTextBoxShow() {
+              var checkBox = document.getElementById("change_image_size_cb");
+              if (checkBox.checked == true){
+                width_size.style.display = "block";
+                height_size.style.display = "block";
+                size_header.style.display = "block";
+
+              } else {
+                width_size.style.display = "none";
+                height_size.style.display = "none";
+                size_header.style.display = "none";
+              }
+            }
+            </script>
+
+            {% if label %}
+                <span>
+                    결과 저장 경로 :
+                </span>
+            <br>
+                <span>
+                    {{ label }}
+                </span>
+            <br>
+            <br>
+            {% endif %}
+            <button type="submit">변경</button>
+        </form>
+    </body>
+</html>
