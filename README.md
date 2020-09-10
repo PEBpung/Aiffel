@@ -16,6 +16,7 @@
 - [E9. 영화리뷰 텍스트 감성분석하기](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E9.%20Naver%20sentiment%20movie%20corpus%20Project.ipynb)
 - [E10. 고양이 수염 스티커 만들기](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E10.%20%EA%B3%A0%EC%96%91%EC%9D%B4%20%EC%88%98%EC%97%BC%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 - [E11. 작사가 인공지능 만들기](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E11.%20%EC%9E%91%EC%82%AC%EA%B0%80%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
+- [E12. 나랑 닮은 연예인을 찾아보자](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E12.%20%EB%82%98%EB%9E%91%20%EB%8B%AE%EC%9D%80%20%EC%97%B0%EC%98%88%EC%9D%B8%EC%9D%84%20%EC%B0%BE%EC%95%84%EB%B3%B4%EC%9E%90.ipynb)
 
 ### Fundamental
 ---
