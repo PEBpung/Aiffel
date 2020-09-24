@@ -19,6 +19,7 @@
 - [E12. 나랑 닮은 연예인을 찾아보자](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E12.%20%EB%82%98%EB%9E%91%20%EB%8B%AE%EC%9D%80%20%EC%97%B0%EC%98%88%EC%9D%B8%EC%9D%84%20%EC%B0%BE%EC%95%84%EB%B3%B4%EC%9E%90.ipynb)
 - [E13. Face2Emoji 모바일 웹앱 만들기](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E13.%20Face2Emoji%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%9B%B9%EC%95%B1%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 - [E14. Image segmentation을 이용한 Portrait mode 만들기](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E14.%20Image%20segmentation%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20Portrait%20mode%20%EB%A7%8C%EB%93%A4%EA%B8%B0..ipynb)
+- [E15. 단어 Level로 seq2seq 번역기 만들기](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E15.%20%EB%8B%A8%EC%96%B4%20Level%EB%A1%9C%20seq2seq%20%EB%B2%88%EC%97%AD%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 
 ### Fundamental
 ---
