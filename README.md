@@ -8,7 +8,7 @@
 | Num. |    About                                   | Concept        | Description                                      | Link        |
 | :---------  | :-----------:                                | :-------------------: | : -------------------:                         |  -------------------: |
 | 1             | AI rock-scissor-paper              | CNN                | 인공지능과 가위바위보 하기           |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E1.%20rock_scissor_paper.ipynb)       |
-| 2             | Analyze  cancer data               | sklearn, Recall              | 유방암 진단을 위한 모델 성능 비교 |   [Link]https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E2.%20Analyze%20cancer%20data.ipynb)                       |
+| 2             | Analyze  cancer data               | sklearn, Recall              | 유방암 진단을 위한 모델 성능 비교 |   [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E2.%20Analyze%20cancer%20data.ipynb)|
 | 3               |  News crawle  |  BeautifulSoup  | 뉴스기사 크롤링 및 분류  |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E3.%20News%20crawle.ipynb)  |
 | 4               |   Image Classification  |  Transfer Learning  | 나만의 이미지 분류기 만들어보기  | [Link]( https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E4.%20Image%20Classification.ipynb)  |
 | 5               |  Feature Engineering  | LinearRegression  | 월요일 오후 세 시, 자전거 타는 사람은 몇 명?  | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E5.%20Feature%20Engineering.ipynb)  |
