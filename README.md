@@ -3,8 +3,9 @@
 ---
 <center><img src= "/img/Exploration.png"  width="300" height="300"></center>
 <br>
-<center>🏆 [모두의 연구소]  AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트  </center>
+<center>🏆 AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트 </center>
 <br>
+
 ### Exploration
 ---
 | Num. |    About                                   | Concept        | Description                                      | Link        |
