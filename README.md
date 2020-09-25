@@ -1,5 +1,6 @@
 
-# AIFFEL Project 리스트
+# <center> AIFFEL Project 리스트 <\center>
+![imge](/img/Exploration.png){: width="300" height="300"}
 2020 AIFFEL Project   
 <br>
 <br>
