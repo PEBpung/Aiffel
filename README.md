@@ -1,9 +1,9 @@
 
-## <center> AIFFEL Project 리스트 </center>
+## <p align="center"> AIFFEL Project 리스트 </p>
 
-<p align="center"><img src= "/img/Exploration.png"  width="300" height="300"></p> 
+<p align="center"><img src= "/img/Exploration.png"  width="300" height="300"></p>
 <br>
-<center> 🏆 AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트 </center>
+<p align="center"> 🏆 AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트 </p>
 <br>
 ---
 
