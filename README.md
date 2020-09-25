@@ -1,13 +1,18 @@
 
 ## <center> AIFFEL Project 리스트 </center>
----
-<center><img src= "/img/Exploration.png"  width="300" height="300"></center>
-<br>
-<center>🏆 AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트 </center>
-<br>
 
-### Exploration
+<center>
+  <img src= "/img/Exploration.png"  width="300" height="300">
+</center>
+<br>
+<center>
+  🏆 AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트
+ </center>
+<br>
 ---
+
+###Exploration
+
 | Num. |    About                                   | Concept        | Description                                      | Link        |
 | :---------  | :-----------:                                | :-------------------: | :-------------------:                         |  -------------------: |
 | 1             | AI rock-scissor-paper              | CNN                | 인공지능과 가위바위보 하기           |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E1.%20rock_scissor_paper.ipynb)       |
