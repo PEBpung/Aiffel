@@ -1,17 +1,13 @@
 
 ## <center> AIFFEL Project 리스트 </center>
 
-<center>
-  <img src= "/img/Exploration.png"  width="300" height="300">
-</center>
+<center> <img src= "/img/Exploration.png"  width="300" height="300"> </center>
 <br>
-<center>
-  🏆 AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트
- </center>
+<center> 🏆 AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트 </center>
 <br>
 ---
 
-###Exploration
+### Exploration
 
 | Num. |    About                                   | Concept        | Description                                      | Link        |
 | :---------  | :-----------:                                | :-------------------: | :-------------------:                         |  -------------------: |
