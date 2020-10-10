@@ -14,7 +14,7 @@
 | 1             | AI rock-scissor-paper              | CNN                | 인공지능과 가위바위보 하기           |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E1.%20rock_scissor_paper.ipynb)       |
 | 2             | Analyze  cancer data               | sklearn, Recall              | 유방암 진단을 위한 모델 비교 |   [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E2.%20Analyze%20cancer%20data.ipynb)|
 | 3               |  News crawle  |  BeautifulSoup  | 뉴스기사 크롤링 및 분류  |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E3.%20News%20crawle.ipynb)  |
-| 4               |   Image Classification  |  Transfer Learning  | 나만의 이미지 분류기 만들어보기  | [Link]( https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E4.%20Image%20Classification.ipynb)  |
+| 4               |   Image Classification  |  Transfer Learning  | 이미지 분류기 만들어보기  | [Link]( https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E4.%20Image%20Classification.ipynb)  |
 | 5               |  Feature Engineering  | LinearRegression  | 자전거 타는 사람은 몇 명?  | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E5.%20Feature%20Engineering.ipynb)  |
 | 6               |  ADF test stationarity  | Stationarity  | 어제 오른 내 주식, 과연 내일은?  | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E6.%20ADF%20test%20stationarity.ipynb )  |
 | 7               |  Recommendation System  | Alternating Least Squares  | 영화 추천 시스템 만들기  | [Link]( https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E7.%20%EC%98%81%ED%99%94%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C.ipynb)  |
