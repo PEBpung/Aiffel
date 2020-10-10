@@ -5,5 +5,5 @@
 *.json
 *.dat
 *.txt
-data
+h_data
 *.tar.gz
