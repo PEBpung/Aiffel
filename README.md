@@ -29,3 +29,10 @@
 |16               | Image Generator |  DCGAN    |  CIFAR-10 이미지 생성하기     | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E16.%20Generated%20CIFAR-10%20Images%20from%20DCGAN.ipynb)  |
 |17               | Compare OCR       |  OCR API, keras-ocr, Tesseract  | 문자를 읽을 수 있는 딥러닝 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E17.Compare%20OCR%20with%20OCR%20API%2C%20keras-ocr%2C%20Tesseract.ipynb) |
 |18               | Text Summarization | AttentionLayer, seq2seq   |뉴스기사 요약해보기| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E18.%20Create%20a%20news%20summary%20bot.ipynb)
+
+### Going Deeper
+-----
+
+| Num. |    About                                   | Concept        | Description                                      | Link        |
+| :---------:  | :-----------:                                | :-------------------: | :-------------------:                         |  -------------------: |
+| 1             | ResNet Ablation          | ResNet, VGG     | plain모델과 residual모델 비교 분석    |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G2.%20ResNet%20Ablation%20Study.ipynb)       |
