@@ -5,5 +5,9 @@
 *.json
 *.dat
 *.txt
+*.pkl
+*.npy
+*.pyc
+attention.py
 h_data
 *.tar.gz
