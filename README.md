@@ -29,6 +29,7 @@
 |16               | Image Generator |  DCGAN    |  CIFAR-10 이미지 생성하기     | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E16.%20Generated%20CIFAR-10%20Images%20from%20DCGAN.ipynb)  |
 |17               | Compare OCR       |  OCR API, keras-ocr, Tesseract  | 문자를 읽을 수 있는 딥러닝 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E17.Compare%20OCR%20with%20OCR%20API%2C%20keras-ocr%2C%20Tesseract.ipynb) |
 |18               | Text Summarization | AttentionLayer, seq2seq   |뉴스기사 요약해보기| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E18.%20Create%20a%20news%20summary%20bot.ipynb)
+|19               | Super Resolution   | SRGAN, PSNR, SSIM | 흐린 사진을 선명하게 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E19.%20Single%20Image%20Super%20Resolution%20using%20Deep%20Learning.ipynb) |
 
 ### Going Deeper
 -----
