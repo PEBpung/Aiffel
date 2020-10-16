@@ -36,4 +36,6 @@
 
 | Num. |    About                                   | Concept        | Description                                      | Link        |
 | :---------:  | :-----------:                                | :-------------------: | :-------------------:                         |  -------------------: |
-| 1             | ResNet Ablation          | ResNet, VGG     | plain모델과 residual모델 비교 분석    |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G2.%20ResNet%20Ablation%20Study.ipynb)       |
+| 2             | ResNet Ablation          | ResNet, VGG     | plain모델과 residual모델 비교 분석    |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G2.%20ResNet%20Ablation%20Study.ipynb)       |
+| 3             | Data Augmentation| imgaug, tf.image | 라이브러리를 활용한 Augmentation 기법 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G3.%20Image%20Augmentation.ipynb)|
+| 4             | Comparison Experimen | CutMix, Mixup | 이미지 어디까지 우려볼까? | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G4.%20CutMix%20or%20Mixup%20Comparison%20Experiment.ipynb) |
