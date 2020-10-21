@@ -31,7 +31,7 @@
 |18               | Text Summarization | AttentionLayer, seq2seq   |뉴스기사 요약해보기| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E18.%20Create%20a%20news%20summary%20bot.ipynb)
 |19               | Super Resolution   | SRGAN, PSNR, SSIM | 흐린 사진을 선명하게 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E19.%20Single%20Image%20Super%20Resolution%20using%20Deep%20Learning.ipynb) |
 | 20               | Anomaly Detection | k-means, DBSCAN, AutoEncoder| 어라 이 시계열 이상한데?| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E20.Anomaly_Detection.ipynb)|
-
+<br>  
 
 ### Going Deeper
 -----
@@ -42,3 +42,4 @@
 | 3             | Data Augmentation| imgaug, tf.image | 라이브러리를 활용한 Augmentation 기법 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G3.%20Image%20Augmentation.ipynb)|
 | 4             | Comparison Experimen | CutMix, Mixup | 이미지 어디까지 우려볼까? | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G4.%20CutMix%20or%20Mixup%20Comparison%20Experiment.ipynb) |
 | 5             | Object Detection   | SSD, Yolo |  딥러닝 기반의 Object detection | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G5.%20Object%20Detection.ipynb)|
+| 6             | Object Detection   | RetinaNet, KITTI |  자율주행 보조 시스템 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G6.Go_STOP_Object_Detection.ipynb)|
