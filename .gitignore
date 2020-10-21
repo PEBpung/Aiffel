@@ -11,3 +11,4 @@
 attention.py
 h_data
 *.tar.gz
+snapshots
