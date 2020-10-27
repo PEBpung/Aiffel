@@ -33,7 +33,7 @@ cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1593
 clyent==1.2.2
 colorama==0.4.3
 contextlib2==0.6.0.post1
-cryptography==2.9.2
+cryptography==3.2
 cssselect==1.1.0
 cycler==0.10.0
 Cython @ file:///home/conda/feedstock_root/build_artifacts/cython_1594253470382/work
