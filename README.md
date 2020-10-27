@@ -32,6 +32,9 @@
 |19               | Super Resolution   | SRGAN, PSNR, SSIM | 흐린 사진을 선명하게 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E19.%20Single%20Image%20Super%20Resolution%20using%20Deep%20Learning.ipynb) |
 | 20               | Anomaly Detection | k-means, DBSCAN, AutoEncoder| 어라 이 시계열 이상한데?| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E20.Anomaly_Detection.ipynb)|
 | 21               | Walker Chatbot  | Transformer, Attention |트랜스포머로 만드는 대화형 챗봇| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E21.Make_Chatbot_using_Transformer.ipynb) | 
+| 22              | Chest X-Ray Images  | CNN |폐렴 진단기 성능개선| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E22_Pneumonia_Classification.ipynb) | 
+
+
 
 <br>  
 
