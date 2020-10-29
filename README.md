@@ -48,3 +48,4 @@
 | 4             | Comparison Experimen | CutMix, Mixup | 이미지 어디까지 우려볼까? | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G4.%20CutMix%20or%20Mixup%20Comparison%20Experiment.ipynb) |
 | 5             | Object Detection   | SSD, Yolo |  딥러닝 기반의 Object detection | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G5.%20Object%20Detection.ipynb)|
 | 6             | Object Detection   | RetinaNet, KITTI |  자율주행 보조 시스템 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G6.Go_STOP_Object_Detection.ipynb)|
+| 8             | Segmentation   | Unet, U-Net++, KITTI |  개선된 U-Net 모델 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G8_Segmentation.ipynb)|
