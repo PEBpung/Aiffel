@@ -33,7 +33,7 @@
 | 20               | Anomaly Detection | k-means, DBSCAN, AutoEncoder| 어라 이 시계열 이상한데?| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E20.Anomaly_Detection.ipynb)|
 | 21               | Walker Chatbot  | Transformer, Attention |트랜스포머로 만드는 대화형 챗봇| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E21.Make_Chatbot_using_Transformer.ipynb) | 
 | 22              | Chest X-Ray Images  | CNN |폐렴 진단기 성능개선| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E22_Pneumonia_Classification.ipynb) | 
-
+| 23              | Session-Based Recommendation  | GRU |Movielens 영화 SBR| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E23_Session-Based%20Recommendation.ipynb) | 
 
 
 <br>  
