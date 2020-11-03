@@ -34,7 +34,7 @@
 | 21               | Walker Chatbot  | Transformer, Attention |트랜스포머로 만드는 대화형 챗봇| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E21.Make_Chatbot_using_Transformer.ipynb) | 
 | 22              | Chest X-Ray Images  | CNN |폐렴 진단기 성능개선| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E22_Pneumonia_Classification.ipynb) | 
 | 23              | Session-Based Recommendation  | GRU4REC |Movielens 영화 SBR| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E23_Session-Based%20Recommendation.ipynb) | 
-
+| 24              | Conditional Generative Model  | Subclassing API, cGAN, Pix2Pix |Segmentation map으로 도로 이미지 만들기| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E23_Session-Based%20Recommendation.ipynb) | 
 
 <br>  
 
