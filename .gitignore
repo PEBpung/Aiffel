@@ -13,3 +13,4 @@ h_data
 *.tar.gz
 snapshots
 *.h5
+cityscapes
