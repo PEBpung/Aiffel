@@ -35,6 +35,7 @@
 | 22              | Chest X-Ray Images  | CNN |폐렴 진단기 성능개선| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E22_Pneumonia_Classification.ipynb) | 
 | 23              | Session-Based Recommendation  | GRU4REC |Movielens 영화 SBR| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E23_Session-Based%20Recommendation.ipynb) | 
 | 24              | Conditional Generative Model  | Subclassing API, cGAN, Pix2Pix |Segmentation map으로 도로 이미지 만들기| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E24_Conditional-Generative-Model.ipynb) | 
+| 25              | Spectrogram classification   | Audio, Spectrogram, Wav |Spectrogram classification 모델 구현| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E25.Spectrogram_classification.ipynb) | 
 
 <br>  
 
@@ -49,4 +50,4 @@
 | 5             | Object Detection   | SSD, Yolo |  딥러닝 기반의 Object detection | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G5.%20Object%20Detection.ipynb)|
 | 6             | Object Detection   | RetinaNet, KITTI |  자율주행 보조 시스템 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G6.Go_STOP_Object_Detection.ipynb)|
 | 8             | Segmentation   | Unet, U-Net++, KITTI |  개선된 U-Net 모델 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G8_Segmentation.ipynb)|
-| 10             |Detection with CAM |CAM, Grad-CAM | Class Activation Map 만들기 |[Link]()|
+| 10             |Detection with CAM |CAM, Grad-CAM | Class Activation Map 만들기 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G10.Make_Class_Activation%20Map.ipynb)|
