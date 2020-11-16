@@ -36,6 +36,8 @@
 | 23              | Session-Based Recommendation  | GRU4REC |Movielens 영화 SBR| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E23_Session-Based%20Recommendation.ipynb) | 
 | 24              | Conditional Generative Model  | Subclassing API, cGAN, Pix2Pix |Segmentation map으로 도로 이미지 만들기| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E24_Conditional-Generative-Model.ipynb) | 
 | 25              | Spectrogram classification   | Audio, Spectrogram, Wav |Spectrogram classification 모델 구현| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E25.Spectrogram_classification.ipynb) | 
+| 26              | Contextual Word Embedding   | BERT, KorQuAD |BERT 모델을 이용한 KorQuAD Task| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E25.Spectrogram_classification.ipynb) | 
+| 27              | Polyp segmentation Task  | U-Net, Vgg16UNet | 의료영상 U-Net 용종검출 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E27.Medical_Imaging_Segmentation.ipynb) | 
 
 <br>  
 
