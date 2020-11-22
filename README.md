@@ -38,6 +38,8 @@
 | 25              | Spectrogram classification   | Audio, Spectrogram, Wav |Spectrogram classification 모델 구현| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E25.Spectrogram_classification.ipynb) | 
 | 26              | Contextual Word Embedding   | BERT, KorQuAD |BERT 모델을 이용한 KorQuAD Task| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E26.KorQuAD%20Task%20using%20BERT.ipynb) | 
 | 27              | Polyp segmentation Task  | U-Net, Vgg16UNet | 의료영상 U-Net 용종검출 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E27.Medical_Imaging_Segmentation.ipynb) | 
+| 28              | Anomaly Detection with GAN  | Skip-GANomaly, CIFAR-10 | 이미지 이상탐지모델(GAN) | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E27.Medical_Imaging_Segmentation.ipynb) | 
+| 29              | Run on Ainize  | Docker, Ainize | Ainize, 원클릭 포트폴리오 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E27.Medical_Imaging_Segmentation.ipynb) | 
 
 <br>  
 
@@ -46,10 +48,12 @@
 
 | Num. |    About                                   | Concept        | Description                                      | Link        |
 | :---------:  | :-----------:                                | :-------------------: | :-------------------:                         |  -------------------: |
-| 2             | ResNet Ablation          | ResNet, VGG     | plain모델과 residual모델 비교 분석    |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G2.%20ResNet%20Ablation%20Study.ipynb)       |
-| 3             | Data Augmentation| imgaug, tf.image | 라이브러리를 활용한 Augmentation 기법 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G3.%20Image%20Augmentation.ipynb)|
-| 4             | Comparison Experimen | CutMix, Mixup | 이미지 어디까지 우려볼까? | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G4.%20CutMix%20or%20Mixup%20Comparison%20Experiment.ipynb) |
-| 5             | Object Detection   | SSD, Yolo |  딥러닝 기반의 Object detection | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G5.%20Object%20Detection.ipynb)|
-| 6             | Object Detection   | RetinaNet, KITTI |  자율주행 보조 시스템 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G6.Go_STOP_Object_Detection.ipynb)|
-| 8             | Segmentation   | Unet, U-Net++, KITTI |  개선된 U-Net 모델 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G8_Segmentation.ipynb)|
-| 10             |Detection with CAM |CAM, Grad-CAM | Class Activation Map 만들기 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G10.Make_Class_Activation%20Map.ipynb)|
+| 1             | ResNet Ablation          | ResNet, VGG     | plain모델과 residual모델 비교 분석    |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G2.%20ResNet%20Ablation%20Study.ipynb)       |
+| 2             | Data Augmentation| imgaug, tf.image | 라이브러리를 활용한 Augmentation 기법 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G3.%20Image%20Augmentation.ipynb)|
+| 3             | Comparison Experimen | CutMix, Mixup | 이미지 어디까지 우려볼까? | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G4.%20CutMix%20or%20Mixup%20Comparison%20Experiment.ipynb) |
+| 4             | Object Detection   | SSD, Yolo |  딥러닝 기반의 Object detection | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G5.%20Object%20Detection.ipynb)|
+| 5             | Object Detection   | RetinaNet, KITTI |  자율주행 보조 시스템 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G6.Go_STOP_Object_Detection.ipynb)|
+| 6             | Segmentation   | Unet, U-Net++, KITTI |  개선된 U-Net 모델 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G8_Segmentation.ipynb)|
+| 7             |Detection with CAM |CAM, Grad-CAM | Class Activation Map 만들기 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G10.Make_Class_Activation%20Map.ipynb)|
+| 8             | End-to-End OCR |keras-ocr, CRNN | Text Recognition 모델 구현하기 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G12.%20End-to-End%20OCR.ipynb)|
+| 9             | Video sticker app |Kalman filter, moviepy| 칼만 필터를 적용한 동영상 스티커앱 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G14.New_video_sticker_app.ipynb)|
