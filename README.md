@@ -39,7 +39,8 @@
 | 26              | Contextual Word Embedding   | BERT, KorQuAD |BERT 모델을 이용한 KorQuAD Task| [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E26.KorQuAD%20Task%20using%20BERT.ipynb) | 
 | 27              | Polyp segmentation Task  | U-Net, Vgg16UNet | 의료영상 U-Net 용종검출 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E27.Medical_Imaging_Segmentation.ipynb) | 
 | 28              | Anomaly Detection with GAN  | Skip-GANomaly, CIFAR-10 | 이미지 이상탐지모델(GAN) | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E28_Anomaly_Detection_with_GAN.ipynb) | 
-| 29              | Run on Ainize  | Docker, Ainize | Ainize, 원클릭 포트폴리오 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E27.Medical_Imaging_Segmentation.ipynb) | 
+| 29              | Run on Ainize  | Docker, Ainize | Ainize, 원클릭 포트폴리오 만들기 | [Link](https://github.com/PEBpung/mnist-mlp-app) | 
+| 30              | Music Transformer | Transformer, MIDI, MAESTRO | Music Generation 모델 만들기 | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E30.Music_Transformer.ipynb) | 
 
 <br>  
 
