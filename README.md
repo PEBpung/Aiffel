@@ -58,3 +58,5 @@
 | 7             |Detection with CAM |CAM, Grad-CAM | Class Activation Map 만들기 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G10.Make_Class_Activation%20Map.ipynb)|
 | 8             | End-to-End OCR |keras-ocr, CRNN | Text Recognition 모델 구현하기 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G12.%20End-to-End%20OCR.ipynb)|
 | 9             | Video sticker app |Kalman filter, moviepy| 칼만 필터를 적용한 동영상 스티커앱 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G14.New_video_sticker_app.ipynb)|
+| 10             | Coarse to fine |Mean-shift, coarse| 불안한 시선 이펙트 추가하기 |[Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Going%20Deeper/G16.coarse_to_fine.ipynb)|
+
