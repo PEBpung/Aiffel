@@ -16,3 +16,4 @@ snapshots
 cityscapes
 *.bmp
 train_ckpt/
+DATA/
